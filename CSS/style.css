@@ -1,3 +1,7 @@
 *{
     font-family: "Noto Serif Bengali", serif;
 }
+
+.active{
+    border-bottom: 4px solid #b91c1c;
+}
